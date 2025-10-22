@@ -3,7 +3,7 @@
 **Date:** 09/10/25
 
 
-**Reg. No.:** 212223060289
+**Reg. No.:** 212223060032
 
 ## Aim  
 To demonstrate the ability of text-to-video generation tools to reproduce an existing video by crafting precise prompts, and to identify key elements within the video to generate a result as close as possible to the original.  
